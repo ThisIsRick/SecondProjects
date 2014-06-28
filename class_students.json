@@ -1,0 +1,8 @@
+{
+  "id": 1, "class": "CLS-1", "grade": 1, 
+  "students":
+    [
+      {"id": 1, "name": "Rick", "gender": "Male", "age": 7},
+      {"id": 2, "name": "Sophia", "gender": "Female", "age": 8}
+    ]
+}
